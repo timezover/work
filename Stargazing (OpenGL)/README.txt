@@ -1,1 +1,0 @@
-Use a Win32 debug version for a debug!
